@@ -1,4 +1,9 @@
-# Synology dss Backup Viewer
+
+
+<img width="1276" height="652" alt="Screenshot 2026-06-24 at 18-40-12 Synology dss Backup Viewer" src="https://github.com/user-attachments/assets/9ec41083-d767-4d3e-bf7c-698b3a7a3893" />
+
+<img width="1276" height="652" alt="Screenshot 2026-06-24 at 18-40-07 Synology dss Backup Viewer" src="https://github.com/user-attachments/assets/cb968f74-b75b-4562-bd7e-60f1e9efc8b5" />
+
 
 **Browser-based viewer for Synology DSM configuration backups (`.dss` files).**
 
