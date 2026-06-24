@@ -1,0 +1,13 @@
+# Local test backups (sensitive NAS data)
+Source/*.dss
+*.dss
+
+# Local-only documentation (not for GitHub)
+OVERVIEW.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
